@@ -29,7 +29,7 @@ a{color:inherit;text-decoration:none}
 .nav{position:fixed;top:0;left:0;right:0;z-index:50;background:rgba(245,243,238,.75);backdrop-filter:blur(12px);border-bottom:1px solid rgba(216,212,203,.6)}
 .nav-inner{height:64px;display:flex;align-items:center;justify-content:space-between}
 .brand{display:flex;align-items:center;gap:10px}
-.brand-mark{font-family:"Instrument Serif",serif;font-size:26px;line-height:1}
+.brand-mark{font-family:"Cormorant Garamond",serif;font-size:26px;line-height:1;font-weight:600}
 .brand-mark.light{color:var(--cream)}
 .brand-label{font-size:11px;letter-spacing:0.22em;text-transform:uppercase;color:var(--muted)}
 .brand-label.light{color:rgba(245,243,238,.7)}
